@@ -1221,7 +1221,7 @@ Median, on the other hand, is quite robust and not affected by outliers.&lt;/p&g
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</summary><category term="python statistics"></category></entry><entry><title>Still more on Pandas</title><link href="https://farru46.github.io/still_more.html" rel="alternate"></link><published>2020-03-01T00:00:00+05:30</published><updated>2020-03-01T00:00:00+05:30</updated><author><name>Faraz Ali</name></author><id>tag:farru46.github.io,2020-03-01:still_more.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+</summary><category term="python statistics numpy"></category></entry><entry><title>Still more on Pandas</title><link href="https://farru46.github.io/still_more.html" rel="alternate"></link><published>2020-03-01T00:00:00+05:30</published><updated>2020-03-01T00:00:00+05:30</updated><author><name>Faraz Ali</name></author><id>tag:farru46.github.io,2020-03-01:still_more.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
