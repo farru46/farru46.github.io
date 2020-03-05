@@ -2335,4 +2335,4 @@ What value of the model parameter n_neighbours is the best?&lt;/p&gt;
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</summary><category term="classification"></category><category term="knn"></category><category term="supervised learning"></category></entry></feed>
+</summary><category term="classification"></category><category term="knn"></category><category term="supervised learning"></category><category term="regression"></category><category term="cross validation"></category><category term="pipelines"></category><category term="preprocessing"></category></entry></feed>
